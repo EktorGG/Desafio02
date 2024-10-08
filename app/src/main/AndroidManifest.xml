@@ -17,7 +17,7 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
             android:label="@string/title_activity_fullscreen"
-            android:theme="@style/Theme.Desafio02.Fullscreen">
+            android:theme="@style/Theme.Desafio02">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
